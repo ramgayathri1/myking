@@ -1,0 +1,16 @@
+body{
+    background-image: url(b2ap3_large_quran_peace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.col-sm{
+    color: #fff;
+    font-family: 'Fredoka One', cursive;
+    padding-top: 5%;
+}
+
+.img2{
+    padding-left: 15%;
+}
