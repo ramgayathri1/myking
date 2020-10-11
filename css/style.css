@@ -2,6 +2,10 @@ body{
     background-image: url(b2ap3_large_quran_peace.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 900px;
+
 
 }
 
